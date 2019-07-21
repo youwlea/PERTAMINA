@@ -1,0 +1,14 @@
+#card-stats .row {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+#page-wrapper {
+  padding: 0 15px;
+  min-height: 568px;
+  background-color: white;
+}
+
+#task .row {
+  justify-content: center;
+}
